@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+#post{
+    width: 400px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+
+
+.imgprofile img{
+    height: 40px;
+    margin: 15px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+
+.nameandplace h3,h4{
+    margin: 0%;
+    font-size: 15px;
+}
+
+.burgermenu{
+    margin-left: auto;
+    padding: 10px;
+ 
+}
+
+.burgermenu img{
+    height: 20px;
+}
+
+
+
+.image img{
+    width: 100%;
+}
+
+.icons img{
+    
+    height: 20px;
+}
+
+.floatright{
+    float: right;
+}
+
+.text{
+    padding: 10px 20px 20px 20px;
+}
+
+.fontweightbold{
+    font-weight: 700;
+}
+
+.fontweightlight{
+    font-weight: 300;
+}
